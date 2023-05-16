@@ -9,6 +9,7 @@ This project is a Sorting Visualizer that allows you to visualize various sortin
 - [Usage](#usage)
 - [Sorting Algorithms](#sorting-algorithms)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 
@@ -66,7 +67,8 @@ Contributions to this project are welcome! If you would like to contribute, plea
 
 Please ensure that your code adheres to the project's coding style and that you include appropriate tests and documentation for your changes.
 
-
+## License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 ---
 
 Feel free to customize the README file further to include any additional information or sections that are relevant to your project.

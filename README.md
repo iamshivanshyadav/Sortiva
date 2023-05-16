@@ -69,6 +69,3 @@ Please ensure that your code adheres to the project's coding style and that you 
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
----
-
-Feel free to customize the README file further to include any additional information or sections that are relevant to your project.

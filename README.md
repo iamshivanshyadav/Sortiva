@@ -1,6 +1,7 @@
 # Sortiva
 
 This project is a Sorting Visualizer that allows you to visualize various sorting algorithms in action. It provides a user interface where you can generate random arrays, select a sorting algorithm, choose the array size, and control the visualization speed.
+Link of website:- https://sortdsn132.netlify.app/
 
 ## Table of Contents
 
